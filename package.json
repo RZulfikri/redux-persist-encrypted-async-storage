@@ -31,7 +31,8 @@
   },
   "peerDependencies": {
     "react-native": "*",
-    "react-native-keychain": "*"
+    "react-native-keychain": "*",
+    "@react-native-community/async-storage": "^1.6.2"
   },
   "dependencies": {
     "crypto-js": "^3.1.9-1",
